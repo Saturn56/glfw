@@ -112,4 +112,4 @@ project "GLFW"
 	filter "configurations:Dist"
 		runtime "Release"
 		optimize "on"
-        symbols "off".
+        symbols "off"
